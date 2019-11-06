@@ -1,0 +1,6 @@
+#include<stdio.h>
+main()
+{
+ int sub;
+ sub=20-10;
+ }
